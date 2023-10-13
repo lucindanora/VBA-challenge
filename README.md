@@ -8,3 +8,6 @@ Microsoft Support( https://support.microsoft.com/en-gb/topic/macro-to-loop-throu
 StackOverflow.  I also looked at https://www.kau.edu.sa/Files/0016435/Subjects/Financial%20Modeling%20Using%20Excel%20and%20VBA(1).pdf but it wasn't specifically helpful.
 Clean up columns came from:https://excelchamps.com/vba/autofit/
 I also worked with my 13yo child, who provided coding examples for formatting. I believe my code is more complicated than it needs to be, but was ultimately unsure how to remedy that and since it works, felt it best to leave it.
+
+Screen Shots
+https://github.com/lucindanora/VBA-challenge/issues/1#issue-1942500819
